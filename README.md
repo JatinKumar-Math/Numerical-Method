@@ -1,21 +1,25 @@
-<h1>Numerical Methods</h1>
-        
-        <p>This repository contains a collection of C++ programs implemented for various Numerical Methods.</p>
+# Numerical Methods
 
-        <h2>Language</h2>
-        <p><span class="badge">C++</span></p>
+A collection of C++ programs implemented for learning and practicing core numerical analysis algorithms.
 
-        <h2>Purpose</h2>
-        <p>This repository is created for learning and practicing Numerical Methods using C++.</p>
+## Methods Included
 
-        <h2>Methods Included</h2>
-        <ul>
-            <li>Newton's Method – One Variable</li>
-            <li>Newton's Method – Two Variables</li>
-            <li>Simpson's 1/3 Rule</li>
-            <li>Simpson's 3/8 Rule</li>
-            <li>Thomson's Algorithm</li>
-            <li>Trapezoidal Rule</li>
-            <li>Trapezoidal Rule Double Integral (using array)</li>
-            <li>Trapezoidal Rule Double Integral (using recursion)</li>
-        </ul>
+- **Root Finding**
+  - Newton's Method (One Variable)
+  - Newton's Method (Two Variables)
+- **Numerical Integration**
+  - Simpson's 1/3 Rule
+  - Simpson's 3/8 Rule
+  - Trapezoidal Rule
+  - Trapezoidal Rule - Double Integral (using arrays)
+  - Trapezoidal Rule - Double Integral (using recursion)
+- **Linear Systems**
+  - Thomson's Algorithm
+
+## Language
+
+- C++
+
+## Purpose
+
+This repository serves as a personal toolkit for learning, understanding, and implementing numerical methods from scratch using C++.
