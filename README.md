@@ -9,6 +9,8 @@ Simpson's 1/3 Rule
 Simpson's 3/8 Rule
 Thomson's Algorithm
 Trapezoidal Rule
+Trapezoidal Rule Double Integral(using array)
+Trapezoidal Rule Double Integral(using recursion)
 Language
 
 C++
