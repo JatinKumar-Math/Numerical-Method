@@ -10,9 +10,11 @@ A collection of C++ programs implemented for learning and practicing core numeri
 - **Numerical Integration**
   - Simpson's 1/3 Rule
   - Simpson's 3/8 Rule
+  - Simpson's 1/3 Rule- Double Integral (using recursion)
   - Trapezoidal Rule
   - Trapezoidal Rule - Double Integral (using arrays)
   - Trapezoidal Rule - Double Integral (using recursion)
+  
 - **Linear Systems**
   - Thomson's Algorithm
 
